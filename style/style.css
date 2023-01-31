@@ -1,0 +1,76 @@
+.bg{
+    background-color: #D9DCD6;
+}
+
+.navbar{
+    background-color: #16425B;
+}
+
+
+.navbar-brand{
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    font-size: 22px;
+}
+
+.nav-txt{
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    font-size: 22px;
+}
+
+.img1{
+    height: 400px;
+    width: 400px;
+    margin-top: 30px;
+}
+
+.home-img{
+    display: flex;
+    justify-content: center;
+}
+
+.box1{
+
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.why-daniel{
+    font-family: 'Comfortaa', cursive;
+    font-size: 22px;
+}
+
+
+.abt-daniel{
+    font-family: 'Comfortaa', cursive;
+    font-size: 22px;
+ 
+}
+
+.our-fav{
+    
+    font-family: 'Comfortaa', cursive;
+    font-size: 22px;
+}
+
+.img2{
+    height: 450px;
+    width: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card{
+    margin-top: 100px;
+    background-color: #16425B;
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    font-size: 22px;
+}
+
+.song{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
